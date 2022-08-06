@@ -30,6 +30,8 @@
 
 # About me
 
+<strong>These experiences helped me and help a lot during problem solving:</strong>
+
 - 🧩 Problem Solver
 - 👨‍🔬 Scientific Researcher in Plant Production
 - 👨‍🌾 Agronomist
@@ -44,8 +46,8 @@
 - 📝 Copywriter and Blogger
 
 
-<strong>These experiences helped me and help a lot during problem solving.</strong>
 
+**My last words:**
 - 🔭 I'm currently working on scientific research on [biochars](https://share.streamlit.io/daniloasdotcom/biocharscience/main/app.py)
 - And in the following side projects:
   - 🖥 [Código Agro](https://codigoagro.com/)
