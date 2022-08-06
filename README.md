@@ -13,10 +13,6 @@
 
 ![Snake animation](https://github.com/daniloasdotcom/daniloasdotcom/raw/output/github-contribution-grid-snake.svg)
 
-<br />
-
-# Languages and tools
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Danilo-Flutter"  height="30" width="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
   <img align="center" alt="Danilo-Dart"  height="30" width="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
