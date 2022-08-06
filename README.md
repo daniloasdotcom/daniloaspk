@@ -9,8 +9,6 @@
   </a>
 </div>
 
-<br />
-
 <p align = "left">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=daniloasdotcom&show_icons=true&locale=en&layout=compact&theme=merko&line_height=0" />
 </p>
