@@ -30,22 +30,22 @@
 
 # About me
 
-<strong>These experiences helped me and help a lot during problem solving:</strong>
+<strong>I love working with:</strong>
 
-- 🧩 Problem Solver
-- 👨‍🔬 Scientific Researcher in Plant Production
-- 👨‍🌾 Agronomist
-- 📊 Data Scientist
-- 👨‍💻 Programmer
-- 👨‍🏫 Tutor in: 
-  - 🧮Data Analysis (Data Science and Applied statistics)
-  - 🌍Agricultural Soil (Physics, Fertility, Pedology and Soil Classification)
-  - 🌾Plant Physiology and Plant Nutrition
-  - 🧬Biochemistry
+- 🧩 Problem Solving
+- 👨‍🔬 Scientific Research in Plant Production
+- 👨‍🌾 Agronomy
+- 📊 Data Science
+- 👨‍💻 Programming
+- 👨‍🏫 Teaching in:
+    - 🧮Data Analysis (Data Science and Applied Statistics)
+    - 🌍 Agricultural Soil (Physics, Fertility, Pedology and Soil Classification)
+    - 🌾 Plant Physiology and Plant Nutrition
+    - 🧬Biochemistry
 - 🎲 Strategist
 - 📝 Copywriter and Blogger
 
-
+<br />
 
 **My last words:**
 - 🔭 I'm currently working on scientific research on [biochars](https://share.streamlit.io/daniloasdotcom/biocharscience/main/app.py)
