@@ -1,6 +1,6 @@
 <h1 align="Left"> Hi 👋, I'm <a href="https://daniloas.com/">Danilo Andrade!</a></h1>
 
-## Solving problems shakes my ideas, I confess🧩.  
+## Solving problems 🧩 shakes my ideas, I confess.  
 
 <br />
 
