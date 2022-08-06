@@ -35,15 +35,15 @@ I’m very curious and I’m always studying or practicing something that involv
 # Languages and tools
 
 <div style="display: inline_block"><br>
-  <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-  <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-  <img align="left" alt=“R” width="26px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" />
-  <img align="left" alt=“Python” width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-  <img align="left" alt=“Streamlit” width="36px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
-  <img align="left" alt=“Flask” width="26px" src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png" />
-  <img align="left" alt=“VisualStudio” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="left" alt=“RSutdio” width="66px" src="https://cdn.worldvectorlogo.com/logos/r-studio-1.svg" />
-  <img align="left" alt=“Pycharm” width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
+  <img align="center" alt=“Flutter”  height="30" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+  <img align="center" alt=“Dart”  height="30" width="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+  <img align="center" alt=“R”  height="30" width="40" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" />
+  <img align="center" alt=“Python”  height="30" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+  <img align="center" alt=“Streamlit”  height="30" width="40" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
+  <img align="center" alt=“Flask”  height="30" width="40" src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png" />
+  <img align="center" alt=“VisualStudio”  height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="center" alt=“RSutdio” height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/r-studio-1.svg" />
+  <img align="center" alt=“Pycharm”  height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
 </div>
 <br />
 <br />
