@@ -1,8 +1,6 @@
 <h1 align="Left"> Hi 👋, I'm <a href="https://daniloas.com/">Danilo Andrade!</a></h1>
 
-<h3 align="center">
-Solving problems shakes my ideas, I confess🧩.
-</h3>  
+### Solving problems shakes my ideas, I confess🧩.  
 
 
 [![Linkedin: DaniloAndradeSantos](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/daniloandradesantos/)][linkedin]
