@@ -11,6 +11,8 @@
   </a>
 </div>
 
+![Snake animation](https://github.com/daniloasdotcom/daniloasdotcom/raw/output/github-contribution-grid-snake.svg)
+
 <br />
 
 # Languages and tools
@@ -85,7 +87,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Snake animation](https://github.com/daniloasdotcom/daniloasdotcom/raw/output/github-contribution-grid-snake.svg)
+
 
 
 [website]: https://daniloas.com
