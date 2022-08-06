@@ -42,7 +42,7 @@
     - 🌾 Plant Physiology and Plant Nutrition
     - 🧬Biochemistry
 - 🎲 Strategist
-- 📝 Copywriter and Blogger
+- 📝 Copywriter and Blogger [here](https://daniloas.com/en/blog_en/) and [here](https://calagemapp.com/blog/)
 
 <br />
 
