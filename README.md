@@ -47,7 +47,7 @@
 <br />
 
 **My last words:**
-- 🔭 I'm currently working on scientific research on [biochars](https://share.streamlit.io/daniloasdotcom/biocharscience/main/app.py)
+- 🔭 I'm currently working on scientific research on [biochars](https://biochar.herokuapp.com/)
 - And in the following side projects:
   - 🖥 [Código Agro](https://codigoagro.com/)
   - 📊 [Dados Agro](https://dadosagro.com/)
