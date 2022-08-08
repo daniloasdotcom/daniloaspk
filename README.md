@@ -29,7 +29,7 @@
 
 # About me
 
-<strong>I love working with:</strong>
+## I love working with
 
 - 🧩 Problem Solving
 - 👨‍🔬 Scientific Research in Plant Production
