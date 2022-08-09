@@ -58,10 +58,6 @@
 - 💬 Ask me about data analisys with R 📈
 - ⚡ Fun fact: I love solve problems 🧩
 
-<div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
-</div>
-
 # Connect With Me
 
 [<img align="left" alt="Danilo Andrade | Website" width="28px" src="https://github.com/daniloasdotcom/daniloasdotcom/blob/main/images/website.png?alt=media"/>][website]
