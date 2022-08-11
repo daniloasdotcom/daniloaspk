@@ -54,7 +54,7 @@
   - 📲 [Calagem App](https://calagemapp.com/)
   - 👨‍🔬 [BioChemistry for Agronomists and Biologists](https://daniloasdotcom.github.io/bioquimica/)
 
-- 🌱 I'm currently learning jiu-jitsu, flutter and copywriting
+- 🌱 I'm currently learning jiu-jitsu, streamlit, flutter and storytelling
 - 💬 Ask me about data analisys with R 📈
 - ⚡ Fun fact: I love solve problems 🧩
 
