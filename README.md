@@ -55,7 +55,7 @@
   - 👨‍🔬 [BioChemistry for Agronomists and Biologists](https://daniloasdotcom.github.io/bioquimica/)
 
 - 🌱 I'm currently learning jiu-jitsu, streamlit, flutter and storytelling
-- 💬 Ask me about data analisys with R 📈
+- 💬 Ask me about data analisys with R and Statistic📈
 - ⚡ Fun fact: I love solve problems 🧩
 
 # Connect With Me
