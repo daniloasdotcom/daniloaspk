@@ -31,7 +31,7 @@
 
 ## I love working with
 
-- 🧠 Mental athlete
+- 🧠 Mental athlete - Preparation for exams for job openings as a civil servant
 - 🧩 Problem Solver/Strategist
 - 👨‍🌾 Agronomist/Researcher in plant production
 - 📊 Data analyst/scientist
