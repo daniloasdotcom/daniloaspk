@@ -31,30 +31,30 @@
 
 ## I love working with
 
-- 🧩 Problem Solving
-- 👨‍🔬 Scientific Research in Plant Production
-- 👨‍🌾 Agronomy
-- 📊 Data Science
-- 👨‍💻 Programming
+- 🧠 Mental athlete
+- 🧩 Problem Solver/Strategist
+- 👨‍🌾 Agronomist/Researcher in plant production
+- 📊 Data analyst/scientist
+- 👨‍💻 Programmer and dev. web/mobile
+- 📲 Usability design consultant
 - 👨‍🏫 Teaching in:
-    - 🧮Data Analysis (Data Science and Applied Statistics)
+    - 🧮 Data Analysis (Data Science and Applied Statistics)
     - 🌍 Agricultural Soil (Physics, Fertility, Pedology and Soil Classification)
     - 🌾 Plant Physiology and Plant Nutrition
-    - 🧬Biochemistry
-- 🎲 Strategist
+    - 🧬 Biochemistry
 - 📝 Copywriter and Blogger [here](https://daniloas.com/en/blog_en/) and [here](https://calagemapp.com/blog/)
 
 <br />
 
 **My last words:**
-- 🔭 I'm currently working on scientific research on [biochars](https://biochar.herokuapp.com/)
+- 🔭 I'm currently working on scientific research on [biochars](https://biochar-es-br.streamlit.app/)
 - And in the following side projects:
   - 🖥 [Código Agro](https://codigoagro.com/)
   - 📊 [Dados Agro](https://dadosagro.com/)
   - 📲 [Calagem App](https://calagemapp.com/)
-  - 👨‍🔬 [BioChemistry for Agronomists and Biologists](https://daniloasdotcom.github.io/bioquimica/)
+  - 👨‍🔬 [BioChemistry for Agronomists and Biologists](https://bioquimicacomdanilo.com.br/)
 
-- 🌱 I'm currently learning jiu-jitsu, streamlit, flutter and storytelling
+- 🌱 I'm currently learning jiu-jitsu, streamlit, flutter and usability
 - 💬 Ask me about data analisys with R and Statistic📈
 - ⚡ Fun fact: I love solve problems 🧩
 
