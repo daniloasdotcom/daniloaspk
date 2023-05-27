@@ -52,7 +52,7 @@
   - 🖥 [Código Agro](https://codigoagro.com/)
   - 📊 [Dados Agro](https://dadosagro.com/)
   - 📲 [Calagem App](https://calagemapp.com/)
-  - 👨‍🔬 [BioChemistry for Agronomists and Biologists](https://bioquimicacomdanilo.com.br/)
+  - 👨‍🔬 [BioChemistry with Danilo](https://bioquimicacomdanilo.com.br/)
 
 - 🌱 I'm currently learning jiu-jitsu, streamlit, flutter and usability
 - 💬 Ask me about data analisys with R and Statistic📈
