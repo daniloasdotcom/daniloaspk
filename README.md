@@ -31,19 +31,16 @@
 
 ## I love working with
 
-- 🧠 Mental athlete - Preparation for exams for job openings as a civil servant
-- 🧩 Problem Solver/Strategist
+- 🧩 Problem Solver
 - 👨‍🌾 Agronomist/Researcher in plant production
 - 📊 Data analyst/scientist
-- 👨‍💻 Programmer and dev. web/mobile
-- 📲 Usability design consultant
+- 👨‍💻 Programmer Jr. and dev. web/mobile
 - 👨‍🏫 Teaching in:
-    - 🧮 Data Analysis (Data Science and Applied Statistics)
+    - 🧬 Biochemistry
+    - - 🧮 Data Analysis (Data Science and Applied Statistics)
     - 🌍 Agricultural Soil (Physics, Fertility, Pedology and Soil Classification)
     - 🌾 Plant Physiology and Plant Nutrition
-    - 🧬 Biochemistry
 - 📝 Copywriter and Blogger [here](https://daniloas.com/en/blog_en/) and [here](https://calagemapp.com/blog/)
-
 <br />
 
 **My last words:**
@@ -54,7 +51,7 @@
   - 📲 [Calagem App](https://calagemapp.com/)
   - 👨‍🔬 [BioChemistry with Danilo](https://bioquimicacomdanilo.com.br/)
 
-- 🌱 I'm currently learning jiu-jitsu, streamlit, flutter and usability
+- 🌱 I'm currently learning streamlit, flutter and usability
 - 💬 Ask me about data analisys with R and Statistic📈
 - ⚡ Fun fact: I love solve problems 🧩
 
@@ -82,9 +79,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
 
 [website]: https://daniloas.com
 [linkedin]: https://www.linkedin.com/in/daniloandradesantos/
