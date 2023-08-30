@@ -37,17 +37,6 @@
     <img src="https://skillicons.dev/icons?i=flask,html,css,flutter,wordpress,git" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Danilo-Flutter"  height="30" width="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-  <img align="center" alt="Danilo-Dart"  height="30" width="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-  <img align="center" alt="Danilo-R"  height="30" width="30" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" />
-  <img align="center" alt="Danilo-Python"  height="30" width="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-  <img align="center" alt="Danilo-Streamlit"  height="30" width="30" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
-  <img align="center" alt="Danilo-VisualStudio"  height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="center" alt="Danilo-RSutdio" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/r-studio-1.svg" />
-  <img align="center" alt="Danilo-Pycharm"  height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
-</div>
-
 <br />
 <br />
 
