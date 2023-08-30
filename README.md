@@ -29,6 +29,13 @@
 
 ![Snake animation](https://github.com/daniloasdotcom/daniloasdotcom/raw/output/github-contribution-grid-snake.svg)
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Danilo-Flutter"  height="30" width="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
   <img align="center" alt="Danilo-Dart"  height="30" width="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
