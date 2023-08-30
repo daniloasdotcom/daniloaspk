@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=r,flask,html,css,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=r,flask,html,css,vscode,flutter,wordpress,git" />
 </div>
 
 <div style="display: inline_block"><br>
