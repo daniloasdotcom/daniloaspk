@@ -14,7 +14,9 @@
   </a>
 </div>
 
-## Solving problems 🧩 shakes my ideas, I confess.  
+</div>
+<h2>Solving problems 🧩 shakes my ideas, I confess.</h2>
+<div align="center">
 
 <br />
 
