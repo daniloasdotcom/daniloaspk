@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=daniloasdotcom.daniloasdotcom" />
+
 <h1 align="Left"> Hi 👋, I'm <a href="https://daniloas.com/">Danilo Andrade!</a></h1>
 
 ## Solving problems 🧩 shakes my ideas, I confess.  
