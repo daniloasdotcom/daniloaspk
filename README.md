@@ -25,7 +25,13 @@
   </a>
 </div>
 
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/daniloasdotcom/daniloasdotcom/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ![Snake animation](https://github.com/daniloasdotcom/daniloasdotcom/raw/output/github-contribution-grid-snake.svg)
 
@@ -41,9 +47,6 @@
 <br />
 
 # About me
-
-## I love working with
-
 - 🧩 Problem Solver
 - 👨‍🌾 Agronomist/Researcher in plant production
 - 📊 Data analyst/scientist
