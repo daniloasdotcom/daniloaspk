@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://daniloas.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FFFFF?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
   <!-- sqlite, safari, google-chrome are other good icon options -->
  
@@ -59,7 +59,7 @@
 - 👨‍💻 Programmer Jr. and dev. web/mobile
 - 👨‍🏫 Teaching in:
     - 🧬 Biochemistry
-    - - 🧮 Data Analysis (Data Science and Applied Statistics)
+    - 🧮 Data Analysis (Data Science and Applied Statistics)
     - 🌍 Agricultural Soil (Physics, Fertility, Pedology and Soil Classification)
     - 🌾 Plant Physiology and Plant Nutrition
 - 📝 Copywriter and Blogger [here](https://daniloas.com/en/blog_en/) and [here](https://calagemapp.com/blog/)
