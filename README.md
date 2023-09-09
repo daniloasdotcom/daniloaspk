@@ -4,13 +4,16 @@
 
 <div align="center"> 
   <a href="mailto:danilo_as@live.com">
-    <img src="https://img.shields.io/badge/Outlook-333333?style=for-the-badge&logo=microsoftoutlook&logoColor=#0078D4" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/daniloandradesantos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://daniloas.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/daniloas.com_/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /><!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
