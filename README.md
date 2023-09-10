@@ -62,6 +62,7 @@
     - 🧮 Data Analysis (Data Science and Applied Statistics)
     - 🌍 Agricultural Soil (Physics, Fertility, Pedology and Soil Classification)
     - 🌾 Plant Physiology and Plant Nutrition
+    - 👨‍🔬 Scientific methodology
 - 📝 Copywriter and Blogger [here](https://daniloas.com/en/blog_en/) and [here](https://calagemapp.com/blog/)
 <br />
 
