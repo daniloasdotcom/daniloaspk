@@ -51,7 +51,7 @@
 - 🧩 Problem Solver
 - 👨‍🌾 Agronomist/Researcher in plant production
 - 📊 Data analyst/scientist
-- 👨‍💻 Programmer Jr. and dev. web/mobile
+- 👨‍💻 Programmer Jr. web and mobile
 - 👨‍🏫 Teaching in:
     - 🧬 Biochemistry
     - 🧮 Data Analysis (Data Science and Applied Statistics)
