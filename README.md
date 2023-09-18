@@ -44,8 +44,8 @@
     
 </div>
 
-<br />
-<br />
+<br/>
+<br/>
 
 # About me
 - 🧩 Problem Solver
@@ -59,7 +59,7 @@
     - 🌾 Plant Physiology and Plant Nutrition
     - 👨‍🔬 Scientific methodology
 - 📝 Copywriter and Blogger [here](https://daniloas.com/en/blog_en/) and [here](https://calagemapp.com/blog/) and [here](https://bioquimicacomdanilo.com.br/blog)
-<br />
+<br/>
 
 **My last words:**
 - 🔭 I'm currently working on scientific research on [biochars](https://biochar-es-br.streamlit.app/)
