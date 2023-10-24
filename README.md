@@ -59,6 +59,7 @@
     - 🌍 Agricultural Soil (Physics, Fertility, Pedology and Soil Classification)
     - 🌾 Plant Physiology and Plant Nutrition
 - 📝 Copywriter and Blogger [here](https://daniloas.com/en/blog_en/) and [here](https://calagemapp.com/blog/) and [here](https://bioquimicacomdanilo.com.br/blog)
+- More about me in my website: [daniloas.com](https://daniloas.com/en/home/) 
 <br/>
 
 **My last words:**
