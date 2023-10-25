@@ -48,18 +48,20 @@
 <br/>
 
 # About me
-- 🧩 Problem Solver
-- 👨‍🌾 Agronomist/Researcher in plant production
-- 📊 Data analyst/scientist
-- 👨‍💻 Programmer Jr. web and mobile
-- 👨‍🏫 Teaching in:
-    - 🧬 Biochemistry
-    - 👨‍🔬 Scientific methodology
-    - 🧮 Data Analysis (Data Science and Applied Statistics)
-    - 🌍 Agricultural Soil (Physics, Fertility, Pedology and Soil Classification)
-    - 🌾 Plant Physiology and Plant Nutrition
+- You can see more about me in my website: [daniloas.com](https://daniloas.com/en/home/)
+
+Long story short:
+- 🧩 Passionate about problem solving
+- 👨‍🌾 Since the beginning of college, working as an agronomist and researcher in plant production
+- 📊 Consequently, I developed the data analyst skill
+- 👨‍💻 As a junior programmer (web and mobile) I create solutions for my daily life as a researcher, agronomist and teacher
+- 👨‍🏫 I am currently teaching at the Federal University of Espírito Santo - Brazil:
+    -🧬 Biochemistry
+    -👨‍🔬 Scientific methodology
+    -🧮 Data Analysis (Data Science and Applied Statistics)
+    -🌍 Agricultural Soil (Physics, Fertility, Pedology and Soil Classification)
+    -🌾Plant Physiology and Plant Nutrition
 - 📝 Blogger [here](https://daniloas.com/en/blog_en/) and [here](https://calagemapp.com/blog/) and [here](https://bioquimicacomdanilo.com.br/blog)
-- More about me in my website: [daniloas.com](https://daniloas.com/en/home/) 
 <br/>
 
 **My last words:**
@@ -72,7 +74,6 @@
 
 - 🌱 I'm currently learning streamlit, flutter and usability
 - 💬 Ask me about data analisys with R and Statistic📈
-- ⚡ Fun fact: I love solve problems 🧩
 
 <!--
 **daniloasdotcom/daniloasdotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
