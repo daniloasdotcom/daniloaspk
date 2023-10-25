@@ -56,11 +56,11 @@ Long story short:
 - 📊 Consequently, I developed the data analyst skill
 - 👨‍💻 As a junior programmer (web and mobile) I create solutions for my daily life as a researcher, agronomist and teacher
 - 👨‍🏫 I am currently teaching at the Federal University of Espírito Santo - Brazil:
-  -🧬 Biochemistry
-  -👨‍🔬 Scientific methodology
-  -🧮 Data Analysis (Data Science and Applied Statistics)
-  -🌍 Agricultural Soil (Physics, Fertility, Pedology and Soil Classification)
-  -🌾Plant Physiology and Plant Nutrition
+  - 🧬 Biochemistry
+  - 👨‍🔬 Scientific methodology
+  - 🧮 Data Analysis (Data Science and Applied Statistics)
+  - 🌍 Agricultural Soil (Physics, Fertility, Pedology and Soil Classification)
+  - 🌾Plant Physiology and Plant Nutrition
 - 📝 Blogger [here](https://daniloas.com/en/blog_en/) and [here](https://calagemapp.com/blog/) and [here](https://bioquimicacomdanilo.com.br/blog)
 <br/>
 
