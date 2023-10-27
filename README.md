@@ -50,7 +50,7 @@
 # About me
 - You can see more about me in my website: [daniloas.com](https://daniloas.com/en/home/)
 
-Long story short:
+But, a summary:
 - 🧩 Passionate about problem solving
 - 👨‍🌾 Since the beginning of college, working as an agronomist and researcher in plant production
 - 📊 Consequently, I developed the data analyst skill
