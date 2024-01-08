@@ -70,10 +70,10 @@ But, a summary:
   - 🖥 [Código Agro](https://codigoagro.com/)
   - 📊 [Dados Agro](https://dadosagro.com/)
   - 📲 [Calagem App](https://calagemapp.com/)
+  - 📲 [BioMemory]([https://play.google.com/store/apps/details?id=com.bioquimica.app_bioquimica.codigo.agro])
   - 👨‍🔬 [BioChemistry with Danilo](https://bioquimicacomdanilo.com.br/)
 
-- 🌱 I'm currently learning streamlit, flutter and usability
-- 💬 Ask me about data analisys with R and Statistic📈
+- 🌱 I'm currently learning flutter, streamlit and usability
 
 <!--
 **daniloasdotcom/daniloasdotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
