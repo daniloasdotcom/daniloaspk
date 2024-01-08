@@ -70,7 +70,7 @@ But, a summary:
   - 🖥 [Código Agro](https://codigoagro.com/)
   - 📊 [Dados Agro](https://dadosagro.com/)
   - 📲 [Calagem App](https://calagemapp.com/)
-  - 📲 [BioMemory]([https://play.google.com/store/apps/details?id=com.bioquimica.app_bioquimica.codigo.agro])
+  - 📲 [BioMemory](https://play.google.com/store/apps/details?id=com.bioquimica.app_bioquimica.codigo.agro)
   - 👨‍🔬 [BioChemistry with Danilo](https://bioquimicacomdanilo.com.br/)
 
 - 🌱 I'm currently learning flutter, streamlit and usability
