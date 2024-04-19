@@ -39,7 +39,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=r,python,dart" /><br>
-    <img src="https://skillicons.dev/icons?i=wordpress,flask,flutter,github,vscode,git" /><br>
+    <img src="https://skillicons.dev/icons?i=wordpress,flask,flutter,github,vscode,git,angular" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br>
     
 </div>
