@@ -55,7 +55,7 @@ But, a summary:
 - 👨‍🌾 Since the beginning of college, working as an agronomist and researcher in plant production
 - 📊 Consequently, I developed the data analyst skill
 - 👨‍💻 As a junior programmer (web and mobile) I create solutions for my daily life as a researcher, agronomist and teacher
-- 👨‍🏫 I am currently teaching at the Federal University of Espírito Santo - Brazil:
+- 👨‍🏫 I already teaching at the Federal University of Espírito Santo - Brazil:
   - 🧬 Biochemistry
   - 👨‍🔬 Scientific methodology
   - 🧮 Data Analysis (Data Science and Applied Statistics)
@@ -65,7 +65,7 @@ But, a summary:
 <br/>
 
 **My last words:**
-- 🔭 I'm currently working on scientific research on [biochars](https://biochar-es-br.streamlit.app/)
+- 🔭 I'm currently working on scientific research on [biochars](https://biochar-es-br.streamlit.app/) and teaching Biochemistry 👨‍🏫 at the Federal University of Espírito Santo - Brazil
 - And in the following side projects:
   - 📲 [Calagem App](https://calagemapp.com/)
   - 📲 [BioMemory](https://play.google.com/store/apps/details?id=com.bioquimica.app_bioquimica.codigo.agro)
@@ -73,7 +73,7 @@ But, a summary:
   - 🖥 [Código Agro](https://codigoagro.com/)
   - 📊 [Dados Agro](https://dadosagro.com/)
   
-- 🌱 I'm currently learning flutter, streamlit and usability
+- 🌱 I'm currently learning Angular 17
 
 <!--
 **daniloasdotcom/daniloasdotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
