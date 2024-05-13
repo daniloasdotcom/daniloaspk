@@ -66,7 +66,6 @@ But, before, a summary:
 
 **My last words:**
 - 🔭 Recently worked as Coordinator of Scientific Research on [biochars](https://biochar-es-br.streamlit.app/) while teaching Biochemistry 👨‍🏫 at the Federal University of Espírito Santo - Brazil
-- Recently worked as Coordinator of Scientific Research on [biochars](https://biochar-es-br.streamlit.app/) while teaching Biochemistry 👨‍🏫 at the Federal University of Espírito Santo - Brazil
 - He is currently working on the following side projects as he prepares to enter the technology market:
   - 📲 [Calagem App](https://calagemapp.com/)
   - 📲 [BioMemory](https://play.google.com/store/apps/details?id=com.bioquimica.app_bioquimica.codigo.agro)
