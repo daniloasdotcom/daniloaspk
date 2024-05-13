@@ -48,14 +48,14 @@
 <br/>
 
 # About me
-- You can see more about me in my website: [daniloas.com](https://daniloas.com/en/home/)
+- You can see more about my projects in: [daniloas.com](https://daniloas.com/en/home/)
 
-But, a summary:
+But, before, a summary:
 - 🧩 Passionate about problem solving
 - 👨‍🌾 Since the beginning of college, working as an agronomist and researcher in plant production
-- 📊 Consequently, I developed the data analyst skill
-- 👨‍💻 As a junior programmer (web and mobile) I create solutions for my daily life as a researcher, agronomist and teacher
-- 👨‍🏫 I already teaching at the Federal University of Espírito Santo - Brazil:
+- 📊 Consequently, he developed important data analyst skills
+- 👨‍💻 As a self-taught programmer (web and mobile) has been create solutions for daily life as a researcher, agronomist and teacher
+- 👨‍🏫 He has been teaching at the Federal University of Espírito Santo - Brazil
   - 🧬 Biochemistry
   - 👨‍🔬 Scientific methodology
   - 🧮 Data Analysis (Data Science and Applied Statistics)
@@ -65,15 +65,15 @@ But, a summary:
 <br/>
 
 **My last words:**
-- 🔭 I'm currently working on scientific research on [biochars](https://biochar-es-br.streamlit.app/) and teaching Biochemistry 👨‍🏫 at the Federal University of Espírito Santo - Brazil
-- And in the following side projects:
+- 🔭 Recently worked as Coordinator of Scientific Research on [biochars](https://biochar-es-br.streamlit.app/) while teaching Biochemistry 👨‍🏫 at the Federal University of Espírito Santo - Brazil
+- Recently worked as Coordinator of Scientific Research on [biochars](https://biochar-es-br.streamlit.app/) while teaching Biochemistry 👨‍🏫 at the Federal University of Espírito Santo - Brazil
+- He is currently working on the following side projects as he prepares to enter the technology market:
   - 📲 [Calagem App](https://calagemapp.com/)
   - 📲 [BioMemory](https://play.google.com/store/apps/details?id=com.bioquimica.app_bioquimica.codigo.agro)
   - 👨‍🔬 [BioChemistry with Danilo](https://bioquimicacomdanilo.com.br/)
+  - 👨‍💻 [Angular CheckList](https://daniloasdotcom.github.io/angularchecklist/)
   - 🖥 [Código Agro](https://codigoagro.com/)
   - 📊 [Dados Agro](https://dadosagro.com/)
-  
-- 🌱 I'm currently learning Angular 17
 
 <!--
 **daniloasdotcom/daniloasdotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
