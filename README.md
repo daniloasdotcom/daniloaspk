@@ -40,8 +40,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=r,python,dart" /><br>
     <img src="https://skillicons.dev/icons?i=wordpress,flask,flutter,github,vscode,git,angular" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br>
-    
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br>   
 </div>
 
 <br/>
@@ -60,8 +59,9 @@ But, before, a summary:
   - 👨‍🔬 Scientific methodology
   - 🧮 Data Analysis (Data Science and Applied Statistics)
   - 🌍 Agricultural Soil (Physics, Fertility, Pedology and Soil Classification)
-  - 🌾Plant Physiology and Plant Nutrition
+  - 🌾 Plant Physiology and Plant Nutrition
 - 📝 Blogger [here](https://daniloas.com/en/blog_en/) and [here](https://calagemapp.com/blog/) and [here](https://bioquimicacomdanilo.com.br/blog)
+- And talk about self-learning and AI [here](https://www.instagram.com/daniloas.com_/)
 <br/>
 
 **My last words:**
