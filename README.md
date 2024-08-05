@@ -19,7 +19,7 @@
  
 </div>
 <div align="center">
-    <h2>Solving problems 🧩 shakes my ideas, I confess.</h2>
+    <h2>Solving problems 🧩 shakes my ideas</h2>
 </div>
 <br />
 <div align="center">
@@ -86,13 +86,15 @@ But, before, a summary:
 - 🔭 Recently worked as Coordinator of Scientific Research on [biochars](https://biochar-es-br.streamlit.app/) while teaching Biochemistry 👨‍🏫 at the Federal University of Espírito Santo - Brazil
 --->
 
-- He is currently working on the following side projects as he prepares to enter the technology market:
-  - 📲 [Calagem App](https://calagemapp.com/)
-  - 📲 [BioMemory](https://play.google.com/store/apps/details?id=com.bioquimica.app_bioquimica.codigo.agro)
-  - 👨‍🔬 [BioChemistry with Danilo](https://bioquimicacomdanilo.com.br/)
-  - 👨‍💻 [Angular CheckList](https://daniloasdotcom.github.io/angularchecklist/)
-  - 🖥 [Código Agro](https://codigoagro.com/)
-  - 📊 [Dados Agro](https://dadosagro.com/)
+I am currently working on the following side projects as I prepare to enter the technology market:
+
+- 📲 [Calagem App](https://calagemapp.com/)
+- 📲 [BioMemory](https://play.google.com/store/apps/details?id=com.bioquimica.app_bioquimica.codigo.agro)
+- 👨‍🔬 [BioChemistry with Danilo](https://bioquimicacomdanilo.com.br/)
+- 👨‍💻 [Angular CheckList](https://daniloasdotcom.github.io/angularchecklist/)
+- 🖥 [Código Agro](https://codigoagro.com/)
+- 📊 [Dados Agro](https://dadosagro.com/)
+
 
 
 <!--
