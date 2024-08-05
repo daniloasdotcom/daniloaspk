@@ -54,7 +54,8 @@ But, before, a summary:
 - 👨‍🌾 Since the beginning of college, working as an agronomist and researcher in plant production
 - 📊 Consequently, he developed important data analyst skills
 - 👨‍💻 As a self-taught programmer (web and mobile) has been create solutions for daily life as a researcher, agronomist and teacher
-- 👨‍🏫 He has been teaching at the Federal University of Espírito Santo - Brazil
+- 👨‍🏫 He has been teaching
+  <!--at the Federal University of Espírito Santo - Brazil--->
   - 🧬 Biochemistry
   - 👨‍🔬 Scientific methodology
   - 🧮 Data Analysis (Data Science and Applied Statistics)
@@ -65,7 +66,10 @@ But, before, a summary:
 <br/>
 
 **My last words:**
+<!--
 - 🔭 Recently worked as Coordinator of Scientific Research on [biochars](https://biochar-es-br.streamlit.app/) while teaching Biochemistry 👨‍🏫 at the Federal University of Espírito Santo - Brazil
+--->
+
 - He is currently working on the following side projects as he prepares to enter the technology market:
   - 📲 [Calagem App](https://calagemapp.com/)
   - 📲 [BioMemory](https://play.google.com/store/apps/details?id=com.bioquimica.app_bioquimica.codigo.agro)
@@ -73,6 +77,7 @@ But, before, a summary:
   - 👨‍💻 [Angular CheckList](https://daniloasdotcom.github.io/angularchecklist/)
   - 🖥 [Código Agro](https://codigoagro.com/)
   - 📊 [Dados Agro](https://dadosagro.com/)
+
 
 <!--
 **daniloasdotcom/daniloasdotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
