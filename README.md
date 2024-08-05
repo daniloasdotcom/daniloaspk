@@ -81,12 +81,11 @@ But, before, a summary:
 <br/>
 
 
-**My last words:**
 <!--
 - 🔭 Recently worked as Coordinator of Scientific Research on [biochars](https://biochar-es-br.streamlit.app/) while teaching Biochemistry 👨‍🏫 at the Federal University of Espírito Santo - Brazil
 --->
 
-I am currently working on the following side projects as I prepare to enter the technology market:
+Advised by a friend and aiming to enter the technology market, I have started a course in Systems Analysis and Development. I am currently working on the following side projects:
 
 - 📲 [Calagem App](https://calagemapp.com/)
 - 📲 [BioMemory](https://play.google.com/store/apps/details?id=com.bioquimica.app_bioquimica.codigo.agro)
@@ -94,6 +93,7 @@ I am currently working on the following side projects as I prepare to enter the 
 - 👨‍💻 [Angular CheckList](https://daniloasdotcom.github.io/angularchecklist/)
 - 🖥 [Código Agro](https://codigoagro.com/)
 - 📊 [Dados Agro](https://dadosagro.com/)
+
 
 
 
