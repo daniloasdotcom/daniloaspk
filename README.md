@@ -60,7 +60,7 @@ But, before, a summary:
   - 👨‍🔬 Scientific methodology
   - 🧮 Data analysis (Experimental Statistics)
   - 🌍 Agricultural soils (Physics, Fertility, Pedology, and Soil Classification)
-  - 📝 Occasionally, I dabble in blogging [here](https://daniloas.com/en/blog_en/) and [here](https://calagemapp.com/blog/) and [here](https://bioquimicacomdanilo.com.br/blog)
+- 📝 Occasionally, I dabble in blogging [here](https://daniloas.com/en/blog_en/) and [here](https://calagemapp.com/blog/) and [here](https://bioquimicacomdanilo.com.br/blog)
 
 
 <!--
