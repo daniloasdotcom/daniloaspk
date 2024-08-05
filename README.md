@@ -47,7 +47,7 @@
 <br/>
 
 # About me
-- You can see more about my projects in: [daniloas.com](https://daniloas.com/en/home/)
+- You can see more about my projects in: [daniloas.com](https://daniloas.com/en/portfolio/)
 
 But, before, a summary:
 
