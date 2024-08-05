@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/daniloandradesantos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://daniloas.com" target="_blank">
+  <a href="https://daniloas.com/en/portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
   <!-- sqlite, safari, google-chrome are other good icon options -->
