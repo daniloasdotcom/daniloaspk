@@ -50,12 +50,26 @@
 - You can see more about my projects in: [daniloas.com](https://daniloas.com/en/home/)
 
 But, before, a summary:
+
+- 🧩 I enjoy solving puzzles and logic challenges, and I even share logical reasoning solutions on the Instagram profile [@achei.a.logica](https://www.instagram.com/achei.a.logica/)
+- 👨‍🌾 Studying Agronomy, working in agricultural research, and more recently teaching biochemistry to undergraduate students from different courses has given me a diverse perspective on various scientific fields
+- 📊 Consequently, I have developed skills in data analysis and interpretation
+- 👨‍💻 As a self-taught programmer (web and mobile), I have created solutions (Frankensteins) for my work routines as a researcher, agronomist, and professor
+- 👨‍🏫 I teach:
+  - 🧬 Biochemistry
+  - 👨‍🔬 Scientific methodology
+  - 🧮 Data analysis (Experimental Statistics)
+  - 🌍 Agricultural soils (Physics, Fertility, Pedology, and Soil Classification)
+  - 📝 Occasionally, I dabble in blogging [here](https://daniloas.com/en/blog_en/) and [here](https://calagemapp.com/blog/) and [here](https://bioquimicacomdanilo.com.br/blog)
+
+
+<!--
 - 🧩 Passionate about problem solving
 - 👨‍🌾 Since the beginning of college, working as an agronomist and researcher in plant production
 - 📊 Consequently, he developed important data analyst skills
 - 👨‍💻 As a self-taught programmer (web and mobile) has been create solutions for daily life as a researcher, agronomist and teacher
 - 👨‍🏫 He has been teaching
-  <!--at the Federal University of Espírito Santo - Brazil--->
+  at the Federal University of Espírito Santo - Brazil
   - 🧬 Biochemistry
   - 👨‍🔬 Scientific methodology
   - 🧮 Data Analysis (Data Science and Applied Statistics)
@@ -63,7 +77,9 @@ But, before, a summary:
   - 🌾 Plant Physiology and Plant Nutrition
 - 📝 Blogger [here](https://daniloas.com/en/blog_en/) and [here](https://calagemapp.com/blog/) and [here](https://bioquimicacomdanilo.com.br/blog)
 - And talk about self-learning and AI [here](https://www.instagram.com/daniloas.com_/)
+-->
 <br/>
+
 
 **My last words:**
 <!--
