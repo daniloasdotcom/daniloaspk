@@ -85,7 +85,7 @@ But, before, a summary:
 - 🔭 Recently worked as Coordinator of Scientific Research on [biochars](https://biochar-es-br.streamlit.app/) while teaching Biochemistry 👨‍🏫 at the Federal University of Espírito Santo - Brazil
 --->
 
-Advised by a friend and aiming to enter the technology market, I have started a course in Systems Analysis and Development. I am currently working on the following side projects:
+Advised by a friend and aiming to enter the technology market, I have started a Technologist degree in Systems Analysis and Development (UNIP) and a Postgraduate program in Artificial Intelligence Applied to Agriculture (UFTPR). I am currently working on the following side projects:
 
 - 📲 [Calagem App](https://calagemapp.com/)
 - 📲 [BioMemory](https://play.google.com/store/apps/details?id=com.bioquimica.app_bioquimica.codigo.agro)
@@ -93,8 +93,6 @@ Advised by a friend and aiming to enter the technology market, I have started a 
 - 👨‍💻 [Angular CheckList](https://daniloasdotcom.github.io/angularchecklist/)
 - 🖥 [Código Agro](https://codigoagro.com/)
 - 📊 [Dados Agro](https://dadosagro.com/)
-
-
 
 
 <!--
