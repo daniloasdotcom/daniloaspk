@@ -54,7 +54,7 @@ But, before, a summary:
 - 🧩 I enjoy solving puzzles and logic challenges, and I even share logical reasoning solutions on the Instagram profile [@achei.a.logica](https://www.instagram.com/achei.a.logica/)
 - 👨‍🌾 Studying Agronomy, working in agricultural research, and more recently teaching biochemistry to undergraduate students from different courses has given me a diverse perspective on various scientific fields
 - 📊 Consequently, I have developed skills in data analysis and interpretation
-- 👨‍💻 As a self-taught programmer (web and mobile), I have created solutions (Frankensteins) for my work routines as a researcher, agronomist, and professor
+- 👨‍💻 As a self-taught programmer (web and mobile), I have created solutions for my work routines as a researcher, agronomist, and professor
 - 👨‍🏫 I teach:
   - 🧬 Biochemistry
   - 👨‍🔬 Scientific methodology
@@ -93,6 +93,7 @@ Advised by a friend and aiming to enter the technology market, I have started a 
 - 👨‍💻 [Angular CheckList](https://daniloasdotcom.github.io/angularchecklist/)
 - 🖥 [Código Agro](https://codigoagro.com/)
 - 📊 [Dados Agro](https://dadosagro.com/)
+- 🌾 [Biochar by Danilo](https://biocharbydanilo.streamlit.app/)
 
 
 <!--
